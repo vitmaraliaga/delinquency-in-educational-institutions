@@ -1,4 +1,5 @@
-# delinquency-in-educational-institutions
-Análisis exploratorio situacional de la morosidad en las instituciones educativas de la Región Norte Central: Caso de estudio. Repository
+# Repository - Delinquency-in-educational-institutions
+Exploratory situational analysis of delinquency in educational institutions in the North Central Region: Case study.
+
 ## Anexos
-![Anexo 1](https://vitmaraliaga.github.io/delinquency-in-educational-institutions/Anexo-1.html)
+- [Anexo 1](https://vitmaraliaga.github.io/delinquency-in-educational-institutions/Anexo-1.html)
