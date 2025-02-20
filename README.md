@@ -3,3 +3,4 @@ Exploratory situational analysis of delinquency in educational institutions in t
 
 ## Anexos
 - [Anexo 1](https://vitmaraliaga.github.io/delinquency-in-educational-institutions/Anexo-1.html)
+- [Anexo 3](https://vitmaraliaga.github.io/delinquency-in-educational-institutions/Anexo-3.html)
