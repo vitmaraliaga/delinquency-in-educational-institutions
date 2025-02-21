@@ -3,6 +3,9 @@ Repository of paper.- Exploratory situational analysis of delinquency in educati
 
 ## Anexos
 - [Anexo 1 ](https://vitmaraliaga.github.io/delinquency-in-educational-institutions/Anexo-3.html) Guía de entrevista.
+- [Anexo 2 ](https://vitmaraliaga.github.io/delinquency-in-educational-institutions/entrevistas-audio-y-transcripcion/html/buen-pastor-transcripcion.html) Transcripción de entrevistas (Inst. Buen pastor de Ñaña).
+- [Anexo 3 ](https://vitmaraliaga.github.io/delinquency-in-educational-institutions/entrevistas-audio-y-transcripcion/html/eduardo-forga-transcripcion.html) Transcripción de entrevistas (Inst. Eduardo Forga).
+
 - [Anexo 333](https://vitmaraliaga.github.io/delinquency-in-educational-institutions/Anexo-1.html) Taxonomía. 
 
 - [Anexo 4](https://vitmaraliaga.github.io/delinquency-in-educational-institutions/Anexo-4.png) Carta de autorización para realización de investigación académica.
