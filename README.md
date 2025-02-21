@@ -8,6 +8,7 @@ Repository of paper.- Exploratory situational analysis of delinquency in educati
 - [Anexo 4](https://vitmaraliaga.github.io/delinquency-in-educational-institutions/matriz-de-consistencia/html/matriz-de-consistencia.html) Matriz de consistencia.
 - [Anexo 5](https://vitmaraliaga.github.io/delinquency-in-educational-institutions/taxonomia/diagrama-de-taxonomia.html) Taxonomía. 
 - [Anexo 6](https://vitmaraliaga.github.io/delinquency-in-educational-institutions/carta-autorizacion/carta-autorizacion.png) Carta de autorización para realización de investigación académica.
+- [Anexo 7](https://vitmaraliaga.github.io/delinquency-in-educational-institutions/cuadro-de-categorizacion/html/cuadro-de-categorizacion.htm) Cuadro de categoriación.
 
 ## Authors
 - vitmar_aliaga@upeu.edu.pe
